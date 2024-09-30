@@ -1,0 +1,14 @@
+{
+  "emmet.preferences": {
+
+  }
+}
+
+{
+    "editor.formatOnSave": false,
+    "[javascript]": {
+      "editor.defaultFormatter": null
+    },
+    "prettier.disableLanguages": ["javascript", "typescript"]
+  }
+  
